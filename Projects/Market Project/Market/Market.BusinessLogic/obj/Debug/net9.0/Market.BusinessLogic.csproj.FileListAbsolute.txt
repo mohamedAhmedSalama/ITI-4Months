@@ -1,0 +1,15 @@
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\bin\Debug\net9.0\Market.BusinessLogic.deps.json
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\bin\Debug\net9.0\Market.BusinessLogic.dll
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\bin\Debug\net9.0\Market.BusinessLogic.pdb
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\bin\Debug\net9.0\Market.DataAccess.dll
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\bin\Debug\net9.0\Market.DataAccess.pdb
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\obj\Debug\net9.0\Market.BusinessLogic.csproj.AssemblyReference.cache
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\obj\Debug\net9.0\Market.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\obj\Debug\net9.0\Market.BusinessLogic.AssemblyInfoInputs.cache
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\obj\Debug\net9.0\Market.BusinessLogic.AssemblyInfo.cs
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\obj\Debug\net9.0\Market.BusinessLogic.csproj.CoreCompileInputs.cache
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\obj\Debug\net9.0\Market.B.9D6821D1.Up2Date
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\obj\Debug\net9.0\Market.BusinessLogic.dll
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\obj\Debug\net9.0\refint\Market.BusinessLogic.dll
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\obj\Debug\net9.0\Market.BusinessLogic.pdb
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.BusinessLogic\obj\Debug\net9.0\ref\Market.BusinessLogic.dll

@@ -1,0 +1,12 @@
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.DataAccess\bin\Debug\net9.0\Market.DataAccess.deps.json
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.DataAccess\bin\Debug\net9.0\Market.DataAccess.dll
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.DataAccess\bin\Debug\net9.0\Market.DataAccess.pdb
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.DataAccess\obj\Debug\net9.0\Market.DataAccess.csproj.AssemblyReference.cache
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.DataAccess\obj\Debug\net9.0\Market.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.DataAccess\obj\Debug\net9.0\Market.DataAccess.AssemblyInfoInputs.cache
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.DataAccess\obj\Debug\net9.0\Market.DataAccess.AssemblyInfo.cs
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.DataAccess\obj\Debug\net9.0\Market.DataAccess.csproj.CoreCompileInputs.cache
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.DataAccess\obj\Debug\net9.0\Market.DataAccess.dll
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.DataAccess\obj\Debug\net9.0\refint\Market.DataAccess.dll
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.DataAccess\obj\Debug\net9.0\Market.DataAccess.pdb
+F:\ITI\08-Adc C#\Day09\Lab\Market\Market.DataAccess\obj\Debug\net9.0\ref\Market.DataAccess.dll

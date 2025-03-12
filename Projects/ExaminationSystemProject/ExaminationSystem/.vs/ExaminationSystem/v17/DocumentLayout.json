@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|F:\\ITI\\13-EF\\Project\\ExaminationSystem\\examinationsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|f:\\iti\\13-ef\\project\\examinationsystem\\examinationsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|f:\\iti\\13-ef\\project\\examinationsystem\\examinationsystem\\ui\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|F:\\ITI\\13-EF\\Project\\ExaminationSystem\\examinationsystem\\ui\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|f:\\iti\\13-ef\\project\\examinationsystem\\examinationsystem\\ui\\startexamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\startexamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|F:\\ITI\\13-EF\\Project\\ExaminationSystem\\examinationsystem\\ui\\startexamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\startexamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|f:\\iti\\13-ef\\project\\examinationsystem\\examinationsystem\\ui\\previewstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\previewstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|F:\\ITI\\13-EF\\Project\\ExaminationSystem\\examinationsystem\\ui\\previewstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\previewstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|F:\\ITI\\13-EF\\Project\\ExaminationSystem\\examinationsystem\\ui\\studentresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\studentresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|f:\\iti\\13-ef\\project\\examinationsystem\\examinationsystem\\ui\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|f:\\iti\\13-ef\\project\\examinationsystem\\examinationsystem\\businesslogic\\studentexamlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\businesslogic\\studentexamlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|f:\\iti\\13-ef\\project\\examinationsystem\\examinationsystem\\ui\\studentexamsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\studentexamsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|F:\\ITI\\13-EF\\Project\\ExaminationSystem\\examinationsystem\\ui\\studentexamsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\studentexamsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|f:\\iti\\13-ef\\project\\examinationsystem\\examinationsystem\\ui\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|F:\\ITI\\13-EF\\Project\\ExaminationSystem\\examinationsystem\\ui\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|f:\\iti\\13-ef\\project\\examinationsystem\\examinationsystem\\businesslogic\\examlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\businesslogic\\examlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|F:\\ITI\\13-EF\\Project\\ExaminationSystem\\examinationsystem\\ui\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|f:\\iti\\13-ef\\project\\examinationsystem\\examinationsystem\\businesslogic\\courselogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\businesslogic\\courselogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|f:\\iti\\13-ef\\project\\examinationsystem\\examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|F:\\ITI\\13-EF\\Project\\ExaminationSystem\\examinationsystem\\ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|f:\\iti\\13-ef\\project\\examinationsystem\\examinationsystem\\ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0043738-E07D-4DB3-BFFD-106CA9FB9C73}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PreviewStudentForm.cs",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\PreviewStudentForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\PreviewStudentForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\PreviewStudentForm.cs",
+              "RelativeToolTip": "ExaminationSystem\\UI\\PreviewStudentForm.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAswLEAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:29:59.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Form1.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\Form1.cs",
+              "RelativeToolTip": "ExaminationSystem\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:39:29.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentExamLogic.cs",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\BusinessLogic\\StudentExamLogic.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\BusinessLogic\\StudentExamLogic.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\BusinessLogic\\StudentExamLogic.cs",
+              "RelativeToolTip": "ExaminationSystem\\BusinessLogic\\StudentExamLogic.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:30:11.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InstructorForm.cs",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\InstructorForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\InstructorForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\InstructorForm.cs",
+              "RelativeToolTip": "ExaminationSystem\\UI\\InstructorForm.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAkwIkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:29:59.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExamForm.cs",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\ExamForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\ExamForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\ExamForm.cs",
+              "RelativeToolTip": "ExaminationSystem\\UI\\ExamForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8BAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:20:29.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentExamsForm.cs",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StudentExamsForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\StudentExamsForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StudentExamsForm.cs",
+              "RelativeToolTip": "ExaminationSystem\\UI\\StudentExamsForm.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:48:19.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StudentForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\StudentForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StudentForm.cs",
+              "RelativeToolTip": "ExaminationSystem\\UI\\StudentForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:55:37.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExamLogic.cs",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\BusinessLogic\\ExamLogic.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\BusinessLogic\\ExamLogic.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\BusinessLogic\\ExamLogic.cs",
+              "RelativeToolTip": "ExaminationSystem\\BusinessLogic\\ExamLogic.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:30:22.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Form1.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "ExaminationSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:18:19.37Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartExamForm.cs",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StartExamForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\StartExamForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StartExamForm.cs",
+              "RelativeToolTip": "ExaminationSystem\\UI\\StartExamForm.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAIwMEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:43:44.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourseLogic.cs",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\BusinessLogic\\CourseLogic.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\BusinessLogic\\CourseLogic.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\BusinessLogic\\CourseLogic.cs",
+              "RelativeToolTip": "ExaminationSystem\\BusinessLogic\\CourseLogic.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:11:07.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Program.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\Program.cs",
+              "RelativeToolTip": "ExaminationSystem\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:57:51.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PreviewStudentForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\PreviewStudentForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\PreviewStudentForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\PreviewStudentForm.cs [Design]",
+              "RelativeToolTip": "ExaminationSystem\\UI\\PreviewStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:29:57.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExamForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\ExamForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\ExamForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\ExamForm.cs [Design]",
+              "RelativeToolTip": "ExaminationSystem\\UI\\ExamForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:17:35.904Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartExamForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StartExamForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\StartExamForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StartExamForm.cs [Design]",
+              "RelativeToolTip": "ExaminationSystem\\UI\\StartExamForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:45:01.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentResultsForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StudentResultsForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\StudentResultsForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StudentResultsForm.cs [Design]",
+              "RelativeToolTip": "ExaminationSystem\\UI\\StudentResultsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:17:42.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StudentForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\StudentForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StudentForm.cs [Design]",
+              "RelativeToolTip": "ExaminationSystem\\UI\\StudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T20:00:56.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentExamsForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StudentExamsForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\StudentExamsForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\StudentExamsForm.cs [Design]",
+              "RelativeToolTip": "ExaminationSystem\\UI\\StudentExamsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:55:09.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InstructorForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\InstructorForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\InstructorForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\InstructorForm.cs [Design]",
+              "RelativeToolTip": "ExaminationSystem\\UI\\InstructorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:07:05.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\RegisterForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\RegisterForm.cs",
+              "RelativeToolTip": "ExaminationSystem\\UI\\RegisterForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowE0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:47:39.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\UI\\RegisterForm.cs",
+              "ToolTip": "F:\\ITI\\13-EF\\Project\\ExaminationSystem\\ExaminationSystem\\UI\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "ExaminationSystem\\UI\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:12:34.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

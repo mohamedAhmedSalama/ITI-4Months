@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC9E48E-1F53-49DE-BA3A-684F19B438A6}|Market.BusinessLogic\\Market.BusinessLogic.csproj|f:\\iti\\08-adc c#\\day09\\lab\\market\\market.businesslogic\\market.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CC9E48E-1F53-49DE-BA3A-684F19B438A6}|Market.BusinessLogic\\Market.BusinessLogic.csproj|solutionrelative:market.businesslogic\\market.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\market.presentation\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|solutionrelative:market.presentation\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\market.presentation\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|solutionrelative:market.presentation\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\market.presentation\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|solutionrelative:market.presentation\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\market.presentation\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|solutionrelative:market.presentation\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\market.presentation\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|solutionrelative:market.presentation\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\market.presentation\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|solutionrelative:market.presentation\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|f:\\iti\\08-adc c#\\day09\\lab\\market\\market.presentation\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|solutionrelative:market.presentation\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|f:\\iti\\08-adc c#\\day09\\lab\\market\\market.presentation\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|solutionrelative:market.presentation\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A17340-5524-4EA0-B2C1-0EE132752AF6}|Market.DataAccess\\Market.DataAccess.csproj|f:\\iti\\08-adc c#\\day09\\lab\\market\\market.dataaccess\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A17340-5524-4EA0-B2C1-0EE132752AF6}|Market.DataAccess\\Market.DataAccess.csproj|solutionrelative:market.dataaccess\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC9E48E-1F53-49DE-BA3A-684F19B438A6}|Market.BusinessLogic\\Market.BusinessLogic.csproj|f:\\iti\\08-adc c#\\day09\\lab\\market\\market.businesslogic\\favouritesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC9E48E-1F53-49DE-BA3A-684F19B438A6}|Market.BusinessLogic\\Market.BusinessLogic.csproj|solutionrelative:market.businesslogic\\favouritesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC9E48E-1F53-49DE-BA3A-684F19B438A6}|Market.BusinessLogic\\Market.BusinessLogic.csproj|f:\\iti\\08-adc c#\\day09\\lab\\market\\market.businesslogic\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC9E48E-1F53-49DE-BA3A-684F19B438A6}|Market.BusinessLogic\\Market.BusinessLogic.csproj|solutionrelative:market.businesslogic\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|f:\\iti\\08-adc c#\\day09\\lab\\market\\market.presentation\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|solutionrelative:market.presentation\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|f:\\iti\\08-adc c#\\day09\\lab\\market\\market.presentation\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|solutionrelative:market.presentation\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|f:\\iti\\08-adc c#\\day09\\lab\\market\\market.presentation\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|solutionrelative:market.presentation\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|f:\\iti\\08-adc c#\\day09\\lab\\market\\market.presentation\\market.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|solutionrelative:market.presentation\\market.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|f:\\iti\\08-adc c#\\day09\\lab\\market\\market.presentation\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFBA9EC-DB67-45F6-827F-04345FBCB7C7}|Market.Presentation\\Market.Presentation.csproj|solutionrelative:market.presentation\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC9E48E-1F53-49DE-BA3A-684F19B438A6}|Market.BusinessLogic\\Market.BusinessLogic.csproj|f:\\iti\\08-adc c#\\day09\\lab\\market\\market.businesslogic\\market.businesslogic.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2CC9E48E-1F53-49DE-BA3A-684F19B438A6}|Market.BusinessLogic\\Market.BusinessLogic.csproj|solutionrelative:market.businesslogic\\market.businesslogic.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A17340-5524-4EA0-B2C1-0EE132752AF6}|Market.DataAccess\\Market.DataAccess.csproj|f:\\iti\\08-adc c#\\day09\\lab\\market\\market.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A17340-5524-4EA0-B2C1-0EE132752AF6}|Market.DataAccess\\Market.DataAccess.csproj|solutionrelative:market.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Market.Presentation\\AdminForm.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\AdminForm.cs",
+              "RelativeToolTip": "Market.Presentation\\AdminForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAhwEAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:39:43.444Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.DataAccess\\DBContext.cs",
+              "RelativeDocumentMoniker": "Market.DataAccess\\DBContext.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.DataAccess\\DBContext.cs",
+              "RelativeToolTip": "Market.DataAccess\\DBContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:08:23.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Market.Presentation\\RegisterForm.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\RegisterForm.cs",
+              "RelativeToolTip": "Market.Presentation\\RegisterForm.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwDwAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:59:15.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.BusinessLogic\\ProductsService.cs",
+              "RelativeDocumentMoniker": "Market.BusinessLogic\\ProductsService.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.BusinessLogic\\ProductsService.cs",
+              "RelativeToolTip": "Market.BusinessLogic\\ProductsService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwCEAAAArAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T09:30:56.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Market.Presentation.csproj",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\Market.Presentation.csproj",
+              "RelativeDocumentMoniker": "Market.Presentation\\Market.Presentation.csproj",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\Market.Presentation.csproj",
+              "RelativeToolTip": "Market.Presentation\\Market.Presentation.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T06:50:54.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FavouritesService.cs",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.BusinessLogic\\FavouritesService.cs",
+              "RelativeDocumentMoniker": "Market.BusinessLogic\\FavouritesService.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.BusinessLogic\\FavouritesService.cs",
+              "RelativeToolTip": "Market.BusinessLogic\\FavouritesService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T09:29:55.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Market.BusinessLogic.csproj",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.BusinessLogic\\Market.BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "Market.BusinessLogic\\Market.BusinessLogic.csproj",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.BusinessLogic\\Market.BusinessLogic.csproj",
+              "RelativeToolTip": "Market.BusinessLogic\\Market.BusinessLogic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T06:52:47.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Market.Presentation\\LoginForm.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\LoginForm.cs",
+              "RelativeToolTip": "Market.Presentation\\LoginForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:04:30.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriesForm.cs",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\CategoriesForm.cs",
+              "RelativeDocumentMoniker": "Market.Presentation\\CategoriesForm.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\CategoriesForm.cs",
+              "RelativeToolTip": "Market.Presentation\\CategoriesForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAhwDIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:17:53.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\UserForm.cs",
+              "RelativeDocumentMoniker": "Market.Presentation\\UserForm.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\UserForm.cs",
+              "RelativeToolTip": "Market.Presentation\\UserForm.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAEwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T06:39:31.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "Market.Presentation\\AdminForm.Designer.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\AdminForm.Designer.cs",
+              "RelativeToolTip": "Market.Presentation\\AdminForm.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwBsBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:42:57.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Market.BusinessLogic",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.BusinessLogic\\Market.BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "Market.BusinessLogic\\Market.BusinessLogic.csproj",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.BusinessLogic\\Market.BusinessLogic.csproj",
+              "RelativeToolTip": "Market.BusinessLogic\\Market.BusinessLogic.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T21:05:46.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "Market.DataAccess\\Class1.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.DataAccess\\Class1.cs",
+              "RelativeToolTip": "Market.DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T05:53:29.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\UserForm.cs",
+              "RelativeDocumentMoniker": "Market.Presentation\\UserForm.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\UserForm.cs [Design]",
+              "RelativeToolTip": "Market.Presentation\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:49:52.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Market.Presentation\\RegisterForm.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "Market.Presentation\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:49:46.308Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "Market.Presentation\\ProductsForm.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\ProductsForm.cs [Design]",
+              "RelativeToolTip": "Market.Presentation\\ProductsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:49:37.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Market.Presentation\\LoginForm.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Market.Presentation\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:49:35.022Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\CategoriesForm.cs",
+              "RelativeDocumentMoniker": "Market.Presentation\\CategoriesForm.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\CategoriesForm.cs [Design]",
+              "RelativeToolTip": "Market.Presentation\\CategoriesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:49:22.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Market.Presentation\\AdminForm.cs",
+              "ToolTip": "F:\\ITI\\08-Adc C#\\Day09\\Lab\\Market\\Market.Presentation\\AdminForm.cs [Design]",
+              "RelativeToolTip": "Market.Presentation\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:48:15.918Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
